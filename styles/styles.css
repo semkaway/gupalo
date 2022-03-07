@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    padding-top: 10rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.cocktail {
+    position: fixed;
+    right: 5%;
+    bottom: 5%;
+}
